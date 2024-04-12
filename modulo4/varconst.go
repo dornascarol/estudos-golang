@@ -37,4 +37,8 @@ func main() {
 
 	g := 1.56
 	fmt.Println(g)
+
+	// const + nome da constante + = (recebe) + valor atribuído
+	const esporte = "muay thai"
+	fmt.Println(esporte)
 }
