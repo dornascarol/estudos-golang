@@ -7,11 +7,11 @@ import "fmt"
 
 func main() {
 	numero := 7
-	// if (condição) { ação } else { outra ação }
+	// if + condição + { ação } + else + { outra ação }
 	if numero == 1 {
-		fmt.Println("Valor é igual a 7")
+		fmt.Println("Valor é igual a 1")
 	} else {
-		fmt.Println("Valor não é igual a 7")
+		fmt.Println("Valor não é igual a 1")
 	}
 
 	if numero == 2 {
