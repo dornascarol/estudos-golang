@@ -13,7 +13,7 @@ Uma linguagem de programação com grande potencial de oportunidades em boas emp
 * Go Playground
   
 ## Ferramentas
-O <a href="https://go.dev/play/" target="_blanl" > Go Playground </a> é uma forma para testar códigos mais simples. 
+O <a href="https://go.dev/play/" target="_blank" > Go Playground </a> é uma forma para testar códigos mais simples. 
 
 Para instalar o Go dentro do computador, <a href="https://go.dev/doc/install" target="_blank" > clique aqui </a>. Versão utilizada foi a 1.22.2
 
@@ -33,3 +33,16 @@ Para instalar o VS Code dentro do computador, <a href="https://code.visualstudio
 * If/Else
 * Switch Case
 * Loops
+
+## Exercícios
+Lista de exercícios das plataformas Codewars e Exercism.
+
+## Boas práticas de programação
+* Convenção de nomenclatura
+* Escolha de bons nomes
+* <a href="https://go.dev/doc/modules/layout" target="_blank"> Layout de organização de projetos </a>: Instrução da própria linguagem de como organizar as pastas dos projetos
+
+## Outros conceitos do Go
+* Métodos em Structs
+* Interfaces
+* Ponteiros
