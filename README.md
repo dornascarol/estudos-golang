@@ -40,9 +40,17 @@ Lista de exercícios das plataformas Codewars e Exercism.
 ## Boas práticas de programação
 * Convenção de nomenclatura
 * Escolha de bons nomes
-* <a href="https://go.dev/doc/modules/layout" target="_blank"> Layout de organização de projetos </a>: Instrução da própria linguagem de como organizar as pastas dos projetos
+* <a href="https://go.dev/doc/modules/layout" target="_blank"> Layout de organização de projetos </a>: instrução da própria linguagem de como organizar as pastas dos projetos
 
 ## Outros conceitos do Go
 * Métodos em Structs
 * Interfaces
 * Ponteiros
+
+## Packages
+* Criando pacotes em Go
+* Gerenciamento de pacotes (<a href="https://go.dev/doc/modules/gomod-ref" target="_blank"> go.mod </a>)
+* Usando pacote externo Echo e baixando dependências
+* Comandos básicos para o go.mod
+* Funções públicas e privadas
+  
