@@ -1,0 +1,12 @@
+Alguns comandos básicos para o go.mod
+
+1. go mod download => Baixe módulos para cache local;
+2. go mod edit => Edite o go.mod a partir de ferramentas ou scripts;
+3. go mod graph => Imprimir gráfico de requisitos do módulo;
+4. go mod init => Inicialize o novo módulo no diretório atual;
+5. go mod tidy => Adicione módulos ausentes e remova módulos não utilizados;
+6. go mod vendor => Faça cópia de fornecedor das dependências;
+7. go mod verify => Verifique se as dependências têm conteúdo esperado;
+8. go mod why => Explique porque são necessários pacotes ou módulos.
+
+Use o "go help mod <comando>" para obter mais informações sobre um comando. 
