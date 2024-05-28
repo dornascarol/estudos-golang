@@ -1,0 +1,11 @@
+API significa Application Programming Interface (Interface de Programação de Aplicação).
+
+APIs são mecanismos que permitem que dois sistemas se comuniquem, usando um conjunto de definições, regras, rotas e protocolos. 
+Sistemas vão precisar compartilhar informações e também podem precisar pegar informações de outros sistemas. 
+Então as APIs servem para isso, é uma forma de viabilizar essa comunicação entre duas aplicações.
+
+Arquitetura de uma API: o cliente requisita dados ao servidor; e o servidor retorna dados para o cliente. 
+A aplicação que envia a solicitação é chamada de cliente e a aplicação que envia a resposta é chamada de servidor.
+
+Para que a comunicação seja feita, são usados formatos de dados predefinidos para compartilhar informações entre os sistemas.
+Os mais usados são XML, YAML e JSON para as aplicações web.
