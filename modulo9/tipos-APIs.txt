@@ -1,0 +1,6 @@
+As APIs são classificadas por tipo de arquitetura:
+
+1. SOAP (Simple Object Access Protocol) significa “Protocolo Simples de Acesso a Objetos”. Cliente e servidor trocam mensagens usando XML.
+2. RPC (Remote Procedure Call) significa “Chamada de Procedimento Remoto”. O cliente solicita uma ação ao servidor e, como resposta, uma função é executada no aplicativo.
+3. WebSocket ativa a comunicação bidirecional entre cliente e servidor. As informações são enviadas no formato JSON.
+4. REST (Representational State Transfer) significa "Transferência de Estado Representacional". O cliente envia solicitações ao servidor e o mesmo usa a entrada solicitada para iniciar funções internas e retornar os dados de saída. Opera com protocolo HTTP.
