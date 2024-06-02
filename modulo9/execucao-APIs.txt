@@ -1,0 +1,24 @@
+Em APIs REST, o sistem usa rotas/métodos HTTP.
+
+O principal papel do HTTP é estabelecer regras na comunicação entre o modelo Cliente-Servidor que funciona na web.
+Quando o utilizamos, todos os dados enviados entre cliente e servidor são transmitidos em texto puro.
+
+
+Métodos HTTP. 
+Conjunto de métodos de requisições que indicam a ação a ser executada para um dado recurso. 
+
+1. GET => busca de informações.
+2. POST => adiciona informações no servidor, cria recursos.
+3. PUT => atualiza dados no servidor.
+4. DELETE => deleta dados no servidor. 
+
+
+Status Code.
+Em cada resposta HTTP existe um código de status. Esse código indica qual foi o "resultado" da requisição. 
+As respostas são agrupadas em 5 classes: 
+
+1xx - Respostas de Informação 
+2xx - Respostas de sucesso -  200 OK
+3xx - Mensagem de redirecionamento - 301 Moved Permanently - 302 Found
+4xx - Respostas de erro do cliente - 400 Bad Request - 404 Not Found - 403 Forbidden
+5xx - Respostas de erro do servidor - 500 Internal Server Error - 503 Service Unavailable
