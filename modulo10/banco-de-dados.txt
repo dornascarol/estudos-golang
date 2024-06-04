@@ -1,0 +1,9 @@
+Um banco de dados é um sistema de armazenamento de informações que permite a:
+- coleta;
+- armazenamento; 
+- recuperação;
+- manipulação de dados de maneira estruturada e eficiente.
+
+Os bancos de dados são usados para armazenar e organizar dados, de modo que seja mais fácil gerenciá-los e acessá-los.
+
+E dados referem-se a qualquer informação capturada e armazenada sobre uma pessoa, um lugar, uma coisa ou um objeto, chamada de entidade, bem como os atributos dessa entidade.
