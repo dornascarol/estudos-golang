@@ -1,0 +1,11 @@
+Existem dois tipos de bancos de dados:
+
+- Relacional: Este é o tipo mais comum de banco de dados. 
+Os dados são organizados em tabelas com linhas e colunas.
+A relação entre os dados é estabelecida por meio de chaves primárias e estrangeiras. 
+E a linguagem utilizada nesse formato é o SQL.
+Exemplos: MySQL, PostgreSQL, Oracle e Microsoft SQL Server. 
+
+- Não Relacional: Bancos de dados NoSQL (ou não relacional) são projetados para lidar com dados não estruturados, semiestruturados ou altamente variáveis. 
+Eles podem ser baseados em documentos, em colunas, em gráficos ou em chave-valor.
+Exemplos: MongoDB, Apache Cassandra, Neo4j e Redis.
