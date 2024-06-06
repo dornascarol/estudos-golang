@@ -1,0 +1,7 @@
+ORM - Object Relational Mapper
+É uma técnica de mapeamento do objeto relacional que permite fazer uma relação dos objetos com os dados que os mesmos representam.
+
+Usado para abstrair a forma de consultas no banco de dados.
+Ao invés de fazer várias queries usando o código SQL, pode seguir com a ORM e facilitar a comunicação.
+
+ORM do Golang é o GORM.
