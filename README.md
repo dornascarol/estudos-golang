@@ -60,3 +60,8 @@ Lista de exercícios das plataformas Codewars e Exercism.
 * Como são usadas
 * Exemplo
   
+## Banco de dados
+* O que é um banco de dados
+* Tipos de bancos de dados: Relacional x Não relacional
+* ORM: que em Golang é o <a href="https://gorm.io/docs/" target="_blank"> GORM </a>
+  
