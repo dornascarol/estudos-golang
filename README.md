@@ -1,67 +1,67 @@
-<h1> Curso Go <img height="48" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png"/> </h1>
+<h1> Go Course <img height="48" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png"/> </h1>
 <br>
 
-<h2> Este foi o aprendizado no Curso Golang do Zero </h2>
-<p> Estudos sobre a linguagem de programação Golang. </p>
+<h2> This was the learning in the Golang Course from Scratch </h2>
+<p> Studies on the Golang programming language. </p>
 
-<h2> Introdução </h2>
-Uma linguagem de programação com grande potencial de oportunidades em boas empresas.
+<h2> Introduction </h2>
+A programming language with great potential for opportunities in good companies.
 
-## Tecnologias utilizadas
+## Technologies used
 * Golang
 * VS Code
 * Go Playground
   
-## Ferramentas
-O <a href="https://go.dev/play/" target="_blank" > Go Playground </a> é uma forma para testar códigos mais simples. 
+## Tools
+The <a href="https://go.dev/play/" target="_blank" > Go Playground</a> is a way to test simpler code.
 
-Para instalar o Go dentro do computador, <a href="https://go.dev/doc/install" target="_blank" > clique aqui </a>. Versão utilizada foi a 1.22.2
+To install Go on your computer, <a href="https://go.dev/doc/install" target="_blank" > click here</a>. Version used was 1.22.2
 
-Para instalar o VS Code dentro do computador, <a href="https://code.visualstudio.com/download" target="_blank"> clique aqui </a>. Habilitar a extensão "Go" e a versão utilizada foi a 0.41.2
+To install VS Code on your computer, <a href="https://code.visualstudio.com/download" target="_blank"> click here</a>. Enable the "Go" extension and the version used was 0.41.2
 
 
-## Conceitos nos primeiros passos
+## Concepts in the first steps
 * Hello World
-* Pacotes em Go
-* Tipos
-* Declaração de constantes e variáveis
+* Packages in Go
+* Types
+* Declaration of constants and variables
 * Zero Values
-* Funções
-* Arrays e Slices
+* Functions
+* Arrays and Slices
 * Maps
 * Structs
 * If/Else
 * Switch Case
 * Loops
 
-## Exercícios
-Lista de exercícios das plataformas Codewars e Exercism.
+## Exercises
+List of exercises from the Codewars and Exercism platforms.
 
-## Boas práticas de programação
-* Convenção de nomenclatura
-* Escolha de bons nomes
-* <a href="https://go.dev/doc/modules/layout" target="_blank"> Layout de organização de projetos </a>: instrução da própria linguagem de como organizar as pastas dos projetos
+## Good programming practices
+* Naming convention
+* Choosing good names
+* <a href="https://go.dev/doc/modules/layout" target="_blank"> Project organization layout</a>: instructions from the language itself on how to organize project folders.
 
-## Outros conceitos do Go
-* Métodos em Structs
+## Other Go concepts
+* Methods in Structs
 * Interfaces
-* Ponteiros
+* Pointers
 
 ## Packages
-* Criando pacotes em Go
-* Gerenciamento de pacotes (<a href="https://go.dev/doc/modules/gomod-ref" target="_blank"> go.mod </a>)
-* Usando pacote externo Echo e baixando dependências
-* Comandos básicos para o go.mod
-* Funções públicas e privadas
+* Creating packages in Go
+* Package management (<a href="https://go.dev/doc/modules/gomod-ref" target="_blank"> go.mod </a>)
+* Using Echo external package and downloading dependencies
+* Basic commands for go.mod
+* Public and private functions
   
 ## API
-* O que é uma API
-* Tipos de APIs
-* Como são usadas
-* Exemplo
+* What is an API?
+* API Types
+* How are they used?
+* Example
   
-## Banco de dados
-* O que é um banco de dados
-* Tipos de bancos de dados: Relacional x Não relacional
-* ORM: que em Golang é o <a href="https://gorm.io/docs/" target="_blank"> GORM </a>
+## Database
+* What is a database?
+* Database Types: Relational vs. Non-Relational
+* ORM: which in Golang is <a href="https://gorm.io/docs/" target="_blank"> GORM </a>
   
