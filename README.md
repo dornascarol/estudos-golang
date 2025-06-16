@@ -65,3 +65,5 @@ List of exercises from the Codewars and Exercism platforms.
 * Database Types: Relational vs. Non-Relational
 * ORM: which in Golang is <a href="https://gorm.io/docs/" target="_blank"> GORM </a>
   
+## Project status
+:heavy_check_mark: Application completed.
