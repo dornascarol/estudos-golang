@@ -1,6 +1,6 @@
 Problema:
 
-Dado um slice de strings, retorne a contagem de cada palavra.
+ETAPA 1: Dado um slice de strings, retorne a contagem de cada palavra.
 
 Exemplo:
 
@@ -10,3 +10,5 @@ output := map[string]int{
 "brl": 1,
 "eur": 1,
 }
+
+ETAPA 2: Testa se a função "count" retorna corretamente a contagem de palavras de um slice de strings.

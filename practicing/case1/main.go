@@ -13,7 +13,7 @@ func count(words []string) map[string]int {
 }
 
 func main() {
-	input := []string{"usd", "brl", "usd", "eur", "usd", "dol", "brl"}
+	input := []string{"usd", "brl", "usd", "eur", "usd", "brl"}
 
 	output := count(input)
 
