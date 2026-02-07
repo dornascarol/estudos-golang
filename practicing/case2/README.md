@@ -1,4 +1,4 @@
-Dado um inteiro n, retorne um array de strings answer (indexado a partir de 1) onde:
+ETAPA 1: Dado um inteiro n, retorne um array de strings answer (indexado a partir de 1) onde:
 
 answer[i] == "FizzBuzz" se i for divisível por 3 e 5.
 
@@ -25,3 +25,5 @@ Exemplo 3:
 Entrada: n = 15
 
 Saída: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"]
+
+ETAPA 2: Testa se a função "fizzBuzz" retorna corretamente a sequência esperada de strings para diferentes valores de n, de acordo com as regras do FizzBuzz.
